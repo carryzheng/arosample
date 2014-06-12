@@ -1,0 +1,35 @@
+#################
+## NetBeans
+#################
+
+nbproject
+
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+
+node_modules/
+logs/
+.sass-cache/
+bower_components/
+
+#################
+## System
+#################
+
+sample.sql
